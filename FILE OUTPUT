@@ -1,0 +1,33 @@
+AUTOMATED REPORT GENERATION
+
+TASK 2- AUTOMATED REPORT GENERATION
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SHALINI MAURYA
+
+INTERN ID: COD123
+
+DURATION : 8 MARCH 2025 TO 8 APRIL 2025
+
+MENTOR NAME : NEELA SANTHOSH KUMAR
+
+DOMAIN: PYTHON PROGRAMMING
+
+ 
+
+OUTPUT ::
+
+Enter the student's name: Shalini
+Enter the number of subjects: 4
+Enter marks obtained in subject 1 (out of 100): 88
+Enter marks obtained in subject 2 (out of 100): 76
+Enter marks obtained in subject 3 (out of 100): 92
+Enter marks obtained in subject 4 (out of 100): 85
+
+--- Report Card ---
+Total Marks: 341.0
+Average Percentage: 85.25%
+Grade: A
+
+✅ Report card has been generated as 'shalini_report_card.pdf'.
